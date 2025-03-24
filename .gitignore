@@ -9,6 +9,7 @@ libpar2.a
 .deps/
 par2.exe
 tests/*.exe
+build.cmake/
 
 # test output
 *.trs
